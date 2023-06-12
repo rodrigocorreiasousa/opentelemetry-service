@@ -14,7 +14,7 @@ require (
 	github.com/mitchellh/mapstructure v1.5.0
 	github.com/mostynb/go-grpc-compression v1.1.17
 	github.com/prometheus/common v0.37.0
-	github.com/rs/cors v1.8.2
+	github.com/rs/cors v1.9.0
 	github.com/shirou/gopsutil/v3 v3.22.8
 	github.com/spf13/cast v1.5.0
 	github.com/spf13/cobra v1.5.0
